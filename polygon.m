@@ -1,12 +1,5 @@
 clc; clear; clf;
-%-------------------------------------------------------------%
-% Software by -  Akash S. Shahade
-%                MT20CDM006 (25075)
-%                M.Tech First Year CadCam
-%                VNIT,Nagpur
-%
-% Faculty Advisor - Prof. A.M.Kuthe
-%-------------------------------------------------------------%
+
 disp('Software by - Akash Shahade');
 e = input('Enter number of sides of polygon: ');
 if e < 3
